@@ -31,12 +31,12 @@ To remotely control the robotic arm using an Android device via Bluetooth, allow
 
 ---
 
-## ⚙️ Component Specifications
+## ⚙ Component Specifications
 
-- **SG90 Servos**: 4.8V–6V input, 0–180° rotation  
-- **HC-06**: Bluetooth serial communication via UART  
-- **STM32F407**: Generates PWM signals and processes UART commands  
-- **Power Supply**: Portable design with 3.7V Li-Po batteries  
+- *SG90 Servos*: 4.8V–6V input, 0–180° rotation  
+- *HC-06*: Bluetooth serial communication via UART  
+- *STM32F407*: Generates PWM signals and processes UART commands  
+- *Power Supply*: Portable design with 3.7V Li-Po batteries  
 
 ---
 
@@ -47,3 +47,8 @@ A custom Android application sends directional commands over Bluetooth. Each but
 ---
 
 > Developed with STM32 💡 Passion for Embedded Systems & Robotics 🤖
+
+
+
+---
+
