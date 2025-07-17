@@ -46,6 +46,10 @@ A custom Android application sends directional commands over Bluetooth. Each but
 
 ---
 
+### 🖼️ Project Poster  
+[📄 Click here to view the project poster](3EksenliRobotKol.png)
+
+
 > Developed with STM32 💡 Passion for Embedded Systems & Robotics 🤖
 
 
