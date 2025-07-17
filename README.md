@@ -47,7 +47,7 @@ A custom Android application sends directional commands over Bluetooth. Each but
 ---
 
 ### 🖼️ Project Poster  
-[📄 Click here to view the project poster](https://github.com/senakotan/BluetoothControlled-3-AxisRoboticArmProject/blob/main/3EksenliRobotKol.png?raw=true)
+[📄 Click here to view the project poster](3EksenliRobotKol.jpg)
 
 
 > Developed with STM32 💡 Passion for Embedded Systems & Robotics 🤖
