@@ -37,7 +37,7 @@ This demonstrates the integration of **electronic systems** with **wireless cont
 A **custom Android application** sends **directional commands** over Bluetooth.  
 Each button in the app corresponds to a **servo function** (e.g., rotate, lift, grip), allowing **real-time movement control**.
 
-## 🖼 Project Poster  
+### 🖼 Project Poster  
 [📄 Click here to view the project poster](3EksenliRobotKol.jpg)
 ---
 
