@@ -1,4 +1,4 @@
-# 🤖 Bluetooth-Controlled 3-Axis Robotic Arm
+#  Bluetooth-Controlled 3-Axis Robotic Arm
 
 A **Bluetooth-enabled robotic arm system** controlled via an Android phone.  
 This 3-axis arm can pick and place objects wirelessly with precision, making it ideal for **educational** and **embedded systems** applications.
