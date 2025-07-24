@@ -37,10 +37,12 @@ This demonstrates the integration of **electronic systems** with **wireless cont
 A **custom Android application** sends **directional commands** over Bluetooth.  
 Each button in the app corresponds to a **servo function** (e.g., rotate, lift, grip), allowing **real-time movement control**.
 
-### 🖼 Project Poster  
-[📄 Click here to view the project poster](3EksenliRobotKol.jpg)
+📄 You can also [view the project poster here](3EksenliRobotKol.jpg).
+
+
+| Developed with STM32 💡 Passion for Embedded Systems & Robotics 🤖
+
+
+
 ---
-
-**Developed with STM32** 💡 **Passion for Embedded Systems & Robotics** 🤖
-
 
