@@ -18,12 +18,12 @@ This demonstrates the integration of **electronic systems** with **wireless cont
 
 ## 🔧 Components Used
 
-- 📱 Android Phone  
-- 🧠 STM32F407 Microcontroller  
-- 📶 HC-06 Bluetooth Module  
-- 🔄 4x SG90 Servo Motors  
-- 🔋 2x 3.7V Li-Po Batteries  
-- 🧵 Female-to-Male Jumper Wires  
+- Android Phone  
+- STM32F407 Microcontroller  
+- HC-06 Bluetooth Module  
+- 4x SG90 Servo Motors  
+- 2x 3.7V Li-Po Batteries  
+- Female-to-Male Jumper Wires  
 
 ## ⚙️ Component Specifications
 
@@ -38,7 +38,7 @@ A **custom Android application** sends **directional commands** over Bluetooth.
 Each button in the app corresponds to a **servo function** (e.g., rotate, lift, grip), allowing **real-time movement control**.
 
 ### 🖼 Project Poster  
-[📄 Click here to view the project poster](3EksenliRobotKol.jpg)
+📄 Click here to view the project poster](3EksenliRobotKol.jpg)
 ---
 
 **Developed with STM32** 💡 **Passion for Embedded Systems & Robotics** 🤖
