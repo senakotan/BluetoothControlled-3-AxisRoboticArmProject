@@ -38,7 +38,7 @@ A **custom Android application** sends **directional commands** over Bluetooth.
 Each button in the app corresponds to a **servo function** (e.g., rotate, lift, grip), allowing **real-time movement control**.
 
 ### 🖼 Project Poster  
-📄 Click here to view the project poster](3EksenliRobotKol.jpg)
+[📄 Click here to view the project poster](3EksenliRobotKol.jpg)
 ---
 
 **Developed with STM32** 💡 **Passion for Embedded Systems & Robotics** 🤖
