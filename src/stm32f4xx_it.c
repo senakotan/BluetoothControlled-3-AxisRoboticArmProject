@@ -41,7 +41,7 @@
 
 /* Private variables ---------------------------------------------------------*/
 /* USER CODE BEGIN PV */
-extern uint8_t getData[1];  //getData dizisi global bir değişken olarak tanımlandı.
+extern uint8_t getData[1]; 
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
